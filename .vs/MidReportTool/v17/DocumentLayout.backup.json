@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\services\\weatherdailyclimateservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\services\\weatherdailyclimateservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\services\\weathercsvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\services\\weathercsvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}|MidReportTool.Application.UnitTests\\MidReportTool.Application.UnitTests.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool.application.unittests\\weatherdailyclimateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}|MidReportTool.Application.UnitTests\\MidReportTool.Application.UnitTests.csproj|solutionrelative:midreporttool.application.unittests\\weatherdailyclimateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\interfaces\\iweatherdailyclimaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\interfaces\\iweatherdailyclimaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\infrastructure\\weatherdailyclimaterepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\infrastructure\\weatherdailyclimaterepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\interfaces\\iweatherdailyclimateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\interfaces\\iweatherdailyclimateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\controllers\\timeseriesdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\controllers\\timeseriesdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\models\\weatherdailyclimatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\models\\weatherdailyclimatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\models\\aggregationreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\models\\aggregationreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\domain\\weatherdailyclimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\domain\\weatherdailyclimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\responses\\apistatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\responses\\apistatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}|MidReportTool.Application.UnitTests\\MidReportTool.Application.UnitTests.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool.application.unittests\\timeseriesdatavalidatorandmappertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}|MidReportTool.Application.UnitTests\\MidReportTool.Application.UnitTests.csproj|solutionrelative:midreporttool.application.unittests\\timeseriesdatavalidatorandmappertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\models\\innerprocessesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\models\\innerprocessesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\models\\uploadweatherdailyclimatechangesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\models\\uploadweatherdailyclimatechangesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\responses\\apiresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\responses\\apiresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\responses\\apimessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\responses\\apimessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\api\\models\\weatherfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\api\\models\\weatherfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}|MidReportTool.Application.UnitTests\\MidReportTool.Application.UnitTests.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool.application.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}|MidReportTool.Application.UnitTests\\MidReportTool.Application.UnitTests.csproj|solutionrelative:midreporttool.application.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\midreporttool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\midreporttool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\models\\weatherfiltercriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\models\\weatherfiltercriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\models\\resultoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\models\\resultoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\customexception\\getspecificrecordindatabaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\customexception\\getspecificrecordindatabaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\models\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\models\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\customexception\\getallrecordsindatabaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\customexception\\getallrecordsindatabaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\customexception\\addrecordsindatabaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\customexception\\addrecordsindatabaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\applicationservices\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\applicationservices\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|c:\\users\\bg000207\\source\\repos\\midreporttool\\midreporttool\\customexception\\domainexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}|MidReportTool\\MidReportTool.csproj|solutionrelative:midreporttool\\customexception\\domainexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWeatherDailyClimateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateRepository.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateRepository.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateRepository.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:32:11.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherDailyClimateRepository .cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Infrastructure\\WeatherDailyClimateRepository .cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Infrastructure\\WeatherDailyClimateRepository .cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Infrastructure\\WeatherDailyClimateRepository .cs",
+              "RelativeToolTip": "MidReportTool\\Infrastructure\\WeatherDailyClimateRepository .cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:35:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherDailyClimateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool.Application.UnitTests\\WeatherDailyClimateServiceTests.cs",
+              "RelativeDocumentMoniker": "MidReportTool.Application.UnitTests\\WeatherDailyClimateServiceTests.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool.Application.UnitTests\\WeatherDailyClimateServiceTests.cs",
+              "RelativeToolTip": "MidReportTool.Application.UnitTests\\WeatherDailyClimateServiceTests.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:36:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherDailyClimateService .cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Services\\WeatherDailyClimateService .cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Services\\WeatherDailyClimateService .cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Services\\WeatherDailyClimateService .cs*",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Services\\WeatherDailyClimateService .cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:58:30.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Program.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Program.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Program.cs",
+              "RelativeToolTip": "MidReportTool\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:55:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWeatherDailyClimateService.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateService.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateService.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateService.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Interfaces\\IWeatherDailyClimateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:39:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeSeriesDataController.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Controllers\\TimeSeriesDataController.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Controllers\\TimeSeriesDataController.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Controllers\\TimeSeriesDataController.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Controllers\\TimeSeriesDataController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:08:04.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherDailyClimateDto.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\WeatherDailyClimateDto.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Models\\WeatherDailyClimateDto.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\WeatherDailyClimateDto.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Models\\WeatherDailyClimateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:31:12.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AggregationReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\AggregationReportDTO.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Models\\AggregationReportDTO.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\AggregationReportDTO.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Models\\AggregationReportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:00:24.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Responses\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Responses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:53:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherDailyClimate.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Domain\\WeatherDailyClimate.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Domain\\WeatherDailyClimate.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Domain\\WeatherDailyClimate.cs",
+              "RelativeToolTip": "MidReportTool\\Domain\\WeatherDailyClimate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:23:26.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "MidReportTool\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:27:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiStatuses.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiStatuses.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Responses\\ApiStatuses.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiStatuses.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Responses\\ApiStatuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:05:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InnerProcessesResult.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\InnerProcessesResult.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Models\\InnerProcessesResult.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\InnerProcessesResult.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Models\\InnerProcessesResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:43:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UploadWeatherDailyClimateChangesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\UploadWeatherDailyClimateChangesDTO.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Models\\UploadWeatherDailyClimateChangesDTO.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\UploadWeatherDailyClimateChangesDTO.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Models\\UploadWeatherDailyClimateChangesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:12:31.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiResponseData.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Responses\\ApiResponseData.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiResponseData.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Responses\\ApiResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:27:14.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiMessages.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiMessages.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Responses\\ApiMessages.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Responses\\ApiMessages.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Responses\\ApiMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:48:33.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:56:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherFilterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\WeatherFilterRequest.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\Api\\Models\\WeatherFilterRequest.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Api\\Models\\WeatherFilterRequest.cs",
+              "RelativeToolTip": "MidReportTool\\Api\\Models\\WeatherFilterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:31:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool.Application.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MidReportTool.Application.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool.Application.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "MidReportTool.Application.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:28:12.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MidReportTool.csproj",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\MidReportTool.csproj",
+              "RelativeDocumentMoniker": "MidReportTool\\MidReportTool.csproj",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\MidReportTool.csproj",
+              "RelativeToolTip": "MidReportTool\\MidReportTool.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T10:29:22.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResultOfT.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\ResultOfT.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Models\\ResultOfT.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\ResultOfT.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Models\\ResultOfT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:06:16.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherFilterCriteria.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\WeatherFilterCriteria.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Models\\WeatherFilterCriteria.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\WeatherFilterCriteria.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Models\\WeatherFilterCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T21:38:11.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetSpecificRecordInDatabaseException.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\GetSpecificRecordInDatabaseException.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\CustomException\\GetSpecificRecordInDatabaseException.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\GetSpecificRecordInDatabaseException.cs",
+              "RelativeToolTip": "MidReportTool\\CustomException\\GetSpecificRecordInDatabaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:36:34.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Models\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\ApplicationStatus.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Models\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:54:13.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAllRecordsInDatabaseException.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\GetAllRecordsInDatabaseException.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\CustomException\\GetAllRecordsInDatabaseException.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\GetAllRecordsInDatabaseException.cs",
+              "RelativeToolTip": "MidReportTool\\CustomException\\GetAllRecordsInDatabaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:03:22.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\appsettings.json",
+              "RelativeDocumentMoniker": "MidReportTool\\appsettings.json",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\appsettings.json",
+              "RelativeToolTip": "MidReportTool\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T13:19:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MidReportTool\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MidReportTool\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T22:17:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddRecordsInDatabaseException.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\AddRecordsInDatabaseException.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\CustomException\\AddRecordsInDatabaseException.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\AddRecordsInDatabaseException.cs",
+              "RelativeToolTip": "MidReportTool\\CustomException\\AddRecordsInDatabaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:30:05.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Models\\Result.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:07:07.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DomainException .cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\DomainException .cs",
+              "RelativeDocumentMoniker": "MidReportTool\\CustomException\\DomainException .cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\CustomException\\DomainException .cs",
+              "RelativeToolTip": "MidReportTool\\CustomException\\DomainException .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:53:14.54Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherCsvService.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Services\\WeatherCsvService.cs",
+              "RelativeDocumentMoniker": "MidReportTool\\ApplicationServices\\Services\\WeatherCsvService.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool\\ApplicationServices\\Services\\WeatherCsvService.cs",
+              "RelativeToolTip": "MidReportTool\\ApplicationServices\\Services\\WeatherCsvService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:44:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeSeriesDataValidatorAndMapperTests.cs",
+              "DocumentMoniker": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool.Application.UnitTests\\TimeSeriesDataValidatorAndMapperTests.cs",
+              "RelativeDocumentMoniker": "MidReportTool.Application.UnitTests\\TimeSeriesDataValidatorAndMapperTests.cs",
+              "ToolTip": "C:\\Users\\bg000207\\source\\repos\\MidReportTool\\MidReportTool.Application.UnitTests\\TimeSeriesDataValidatorAndMapperTests.cs",
+              "RelativeToolTip": "MidReportTool.Application.UnitTests\\TimeSeriesDataValidatorAndMapperTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:15:03.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

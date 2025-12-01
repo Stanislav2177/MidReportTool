@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidReportTool", "MidReportTool\MidReportTool.csproj", "{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidReportTool.Application.UnitTests", "MidReportTool.Application.UnitTests\MidReportTool.Application.UnitTests.csproj", "{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7120A-6E6E-4D99-8E09-A2EF7D034CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D4F29E-E5F1-4D6B-808B-D71D62E36EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,130 @@
+[
+  {
+    "ContainingType": "MidReportTool.Api.Controllers.TimeSeriesDataController",
+    "Method": "Upload",
+    "RelativePath": "api/v1/timeseries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CsvFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DateTimeFormat",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DateMapping",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MeantempMapping",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "HumidityMapping",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "WindSpeedMapping",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MeanpressureMapping",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RelatedCityMapping",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "upload/WeatherDailyClimate"
+  },
+  {
+    "ContainingType": "MidReportTool.Api.Controllers.TimeSeriesDataController",
+    "Method": "GetAllRecords",
+    "RelativePath": "api/v1/timeseries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "Base view of all data which present in DB"
+  },
+  {
+    "ContainingType": "MidReportTool.Api.Controllers.TimeSeriesDataController",
+    "Method": "GetFilteredDTOsV1",
+    "RelativePath": "api/v1/timeseries/search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "MidReportTool.Api.Models.WeatherFilterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Version 1 of Filtering all data based on criterias"
+  },
+  {
+    "ContainingType": "MidReportTool.Api.Controllers.TimeSeriesDataController",
+    "Method": "GetSpecificRecord",
+    "RelativePath": "api/v1/timeseries/search/{city}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Specific records from the DB by city name"
+  },
+  {
+    "ContainingType": "MidReportTool.Api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MidReportTool.WeatherForecast, MidReportTool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

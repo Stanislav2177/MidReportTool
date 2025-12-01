@@ -1,0 +1,274 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MidReportTool",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/timeseries": {
+      "post": {
+        "tags": [
+          "TimeSeriesData"
+        ],
+        "operationId": "upload/WeatherDailyClimate",
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "CsvFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "DateTimeFormat": {
+                    "type": "string"
+                  },
+                  "DateMapping": {
+                    "type": "string"
+                  },
+                  "MeantempMapping": {
+                    "type": "string"
+                  },
+                  "HumidityMapping": {
+                    "type": "string"
+                  },
+                  "WindSpeedMapping": {
+                    "type": "string"
+                  },
+                  "MeanpressureMapping": {
+                    "type": "string"
+                  },
+                  "RelatedCityMapping": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "CsvFile": {
+                  "style": "form"
+                },
+                "DateTimeFormat": {
+                  "style": "form"
+                },
+                "DateMapping": {
+                  "style": "form"
+                },
+                "MeantempMapping": {
+                  "style": "form"
+                },
+                "HumidityMapping": {
+                  "style": "form"
+                },
+                "WindSpeedMapping": {
+                  "style": "form"
+                },
+                "MeanpressureMapping": {
+                  "style": "form"
+                },
+                "RelatedCityMapping": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "TimeSeriesData"
+        ],
+        "operationId": "Base view of all data which present in DB",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/timeseries/search/{city}": {
+      "get": {
+        "tags": [
+          "TimeSeriesData"
+        ],
+        "operationId": "Specific records from the DB by city name",
+        "parameters": [
+          {
+            "name": "city",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/timeseries/search": {
+      "post": {
+        "tags": [
+          "TimeSeriesData"
+        ],
+        "operationId": "Version 1 of Filtering all data based on criterias",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WeatherFilterRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "WeatherFilterRequest": {
+        "type": "object",
+        "properties": {
+          "dateFrom": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "dateTo": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "meanTempMin": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "meanTempMax": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "humidityMin": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "humidityMax": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "windSpeedMin": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "windSpeedMax": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "meanPressureMin": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "meanPressureMax": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
